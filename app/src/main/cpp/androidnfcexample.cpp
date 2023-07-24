@@ -1,4 +1,3 @@
-#include <jni.h>
 
 // Write C++ code here.
 //
@@ -17,8 +16,11 @@
 //         System.loadLibrary("androidnfcexample")
 //      }
 //    }
-extern "C"
-JNIEXPORT jboolean JNICALL
+#include "include/BCAdllE.h"
+#include <jni.h>
+
+
+JNIEXPORT extern "C" jboolean
 Java_com_maskaravivek_androidnfcexample_NativeLibrary_cekSaldoBCA(JNIEnv *env, jobject thiz) {
-    // TODO: implement cekSaldoBCA()
+    // TODO: implement BCACheckBalance()
 }
