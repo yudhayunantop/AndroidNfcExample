@@ -1,0 +1,3 @@
+C:/Users/yudha/AndroidStudioProjects/AndroidNfcExample/app/.cxx/Debug/1k4p1i5a/x86/CMakeFiles/androidnfcexample.dir
+C:/Users/yudha/AndroidStudioProjects/AndroidNfcExample/app/.cxx/Debug/1k4p1i5a/x86/CMakeFiles/edit_cache.dir
+C:/Users/yudha/AndroidStudioProjects/AndroidNfcExample/app/.cxx/Debug/1k4p1i5a/x86/CMakeFiles/rebuild_cache.dir

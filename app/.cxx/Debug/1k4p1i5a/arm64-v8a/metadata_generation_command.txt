@@ -1,0 +1,23 @@
+                    Executable : C:\Users\yudha\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe
+arguments : 
+-HC:\Users\yudha\AndroidStudioProjects\AndroidNfcExample\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=C:\Users\yudha\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=C:\Users\yudha\AppData\Local\Android\Sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\yudha\AppData\Local\Android\Sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\yudha\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\yudha\AndroidStudioProjects\AndroidNfcExample\app\build\intermediates\cxx\Debug\1k4p1i5a\obj\arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\yudha\AndroidStudioProjects\AndroidNfcExample\app\build\intermediates\cxx\Debug\1k4p1i5a\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\yudha\AndroidStudioProjects\AndroidNfcExample\app\.cxx\Debug\1k4p1i5a\arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2
